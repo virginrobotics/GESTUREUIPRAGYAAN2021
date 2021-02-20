@@ -1,4 +1,6 @@
-
+//AUTHOR - PREM KUMAR R
+//FOR THE PROJECT GUI FOR VENDING MACHINES
+//PRAGYAAN 2021
 int left = 4;
 int right =14;
 int trigPin = 16;
