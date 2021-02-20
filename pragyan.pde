@@ -1,3 +1,6 @@
+/* AUTHOR - PREM KUMAR R
+FOR THE PROJECT GUI FOR VENDING MACHINES
+PRAGYAAN 2021 /*
 
 import processing.serial.*;
 Serial myPort;
